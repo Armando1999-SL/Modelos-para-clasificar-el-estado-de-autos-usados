@@ -41,3 +41,6 @@ Para comparar el desempeño de los modelos se emplearon:
 Los resultados muestran que los **modelos que consideran la ordinalidad de los datos** tienden a obtener un mejor desempeño en comparación con sus contrapartes clásicas.  
 
 En este caso, el **Random Forest ordinal** fue el modelo que alcanzó las mejores métricas de evaluación, con un **MAE = 0.3** y **Kappa = 0.95**.
+
+**Métricas de los modelos y variables más importantes que determinan la condición de un auto**
+![](metricas.png)
